@@ -4,7 +4,7 @@
 
 # Clone the repo
 ```bash
-git clone https://github.com/Rohit-118/RoxWealth.git
+git clone https://github.com/rohitprasad-code/ristorante.git
 ```
 
 ### Two folders are there in the repo
@@ -14,11 +14,11 @@ git clone https://github.com/Rohit-118/RoxWealth.git
 ### So, first we have to run the resturant-service for the backend
 ### Parllely we can run the resturant-application for the frontend in <b>another terminal</b>
 
+## Setup - backend
+
 ```bash
 cd ristorante\restaurant-server
 ```
-
-## Setup
 
 ### Install dependencies
 
@@ -33,7 +33,7 @@ npm start
 ```
 
 
-# Then Navigate into the resturant-application folder in <b>another terminal</b>
+## Setup - frontend - Then Navigate into the resturant-application folder in <b>another terminal</b>
 
 ```bash
 cd ristorante\restaurant-application
